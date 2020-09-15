@@ -1,3 +1,6 @@
 Another file in feature branch.
 
 Another file modified locally.
+
+
+Modification in feature2 branch.
